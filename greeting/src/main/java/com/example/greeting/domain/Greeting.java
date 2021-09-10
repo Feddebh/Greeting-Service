@@ -9,7 +9,8 @@ public class Greeting {
         this.content = content;
     }
 
-    public long getId() {
+    public long getId(){
+
         return id;
     }
 
